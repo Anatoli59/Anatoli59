@@ -1,2 +1,2 @@
 hello wor
-word
+текст для ветки " calc " .
