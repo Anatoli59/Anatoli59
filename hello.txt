@@ -1,2 +1,2 @@
-hello word
-мяу
+hello wor
+word
